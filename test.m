@@ -1,0 +1,1 @@
+%test file to check if publishig is working
